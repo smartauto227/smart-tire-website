@@ -368,6 +368,95 @@ a {
 	color: white;
 	text-align: left;
 }
+
+#services .service-item p2 {
+	font-size: 1.5rem;
+	color: white;
+	text-align: left;
+}
+
+#services .pricing-title{
+	font-size: 3rem;
+	font-weight: 300;
+	color:black;
+	margin-bottom: 20px;
+	text-transform:uppercase;
+	letter-spacing: 0.2rem;
+	text-align: centre;
+}
+
+#services .price-info {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 15px; /* Adjust as needed */
+  }
+  
+  
+  
+  #services .pricing h2 {
+	font-size: 1.7rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+  }
+
+  #services .pricing h2 span {
+	font-size: 2rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	color: darkred;
+  }
+  
+  #services .pricing h3 {
+	font-size: 1.7rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	margin-left: 20px; /* Add some space between the days and hours */
+  }
+
+  #services .pricing h3 span {
+	font-size: 2rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	color: darkred;
+  }
+
+  #services .pricing h4 {
+	font-size: 1.7rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	margin-left: 20px; /* Add some space between the days and hours */
+  }
+
+  #services .pricing h4 span {
+	font-size: 2rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	color: darkred;
+  }
+
+  #services .pricing h5 {
+	font-size: 1.7rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	margin-left: 20px; /* Add some space between the days and hours */
+  }
+
+  #services .pricing h5 span {
+	font-size: 2rem;
+	line-height: 3rem;
+	font-weight: 500;
+	margin-bottom: 20px; /* Adjust as needed */
+	color: darkred;
+  }
+
+
 /* End Services Section */
 
 /* Review Section */
@@ -510,14 +599,14 @@ a {
   
   #location .timing h2 {
 	font-size: 1.7rem;
-	line-height: 2rem;
+	line-height: 2.5rem;
 	font-weight: 500;
 	margin-bottom: 10px; /* Adjust as needed */
   }
   
   #location .timing h3 {
 	font-size: 1.7rem;
-	line-height: 2rem;
+	line-height: 2.5rem;
 	font-weight: 500;
 	margin-bottom: 10px; /* Adjust as needed */
 	margin-left: 20px; /* Add some space between the days and hours */
